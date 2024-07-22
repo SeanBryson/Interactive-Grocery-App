@@ -1,4 +1,4 @@
-# DockerMultiTierApp
+# Docker Multi-Tier App
 ### Multi-Container Application Using Python Flask & React
 
 A multi-container shopping list application that allows CRUD operations. This project is easily launched using the Docker Compose file.

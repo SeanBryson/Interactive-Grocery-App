@@ -1,3 +1,4 @@
+# DockerMultiTierApp
 ### Multi-Container Application Using Python Flask & React
 
 A multi-container shopping list application that allows CRUD operations. This project is easily launched using the Docker Compose file.
@@ -21,4 +22,4 @@ To run this application with Docker Compose, follow these steps:
 ## Docker Images
 
 The Docker images for this application are available on Docker Hub. Feel free to pull and run images for the [frontend](https://hub.docker.com/r/seanbryson/capstone_solution-frontend) and [backend](https://hub.docker.com/r/seanbryson/capstone_solution-backend).
-# DockerMultiTierApp
+
